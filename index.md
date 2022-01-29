@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Information Visualization
 
 You can use the [editor on GitHub](https://github.com/hogwild/InfoVis_Spring2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

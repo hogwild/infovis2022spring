@@ -1,5 +1,8 @@
 ## Welcome to Information Visualization
 
+### Lab 1: Introduction to HTML
+### Lab 2: Introduction to JavaScript
+### Lecture 3: Marks and Channels
 <!-- You can use the [editor on GitHub](https://github.com/hogwild/InfoVis_Spring2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

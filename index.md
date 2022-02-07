@@ -1,6 +1,7 @@
 ## Welcome to Information Visualization
 
-### Lab 1: [Make a face using svg in HTML](https://hogwild.github.io/infovis2022spring/religion_by_country.html)
+### Lecture 1: [Religion By Country](https://hogwild.github.io/infovis2022spring/religion_by_country.html)
+### Lab 1: Make a face using svg in HTML
 ### Lab 3: Make a face using D3.js
 <!-- You can use the [editor on GitHub](https://github.com/hogwild/InfoVis_Spring2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

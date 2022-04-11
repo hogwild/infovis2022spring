@@ -135,7 +135,7 @@ function Treemap(props) {
   });
 
   var color = function color(node) {
-    console.log(node);
+    // console.log(node);
     var colormap = (0,d3__WEBPACK_IMPORTED_MODULE_1__.scaleOrdinal)(d3__WEBPACK_IMPORTED_MODULE_1__.schemeDark2).domain(parentsCategories);
     return selectedNode && node.x0 === selectedNode.x0 && node.y0 === selectedNode.y0 ? "red" : colormap(node.parent.data.name);
   };
@@ -143,7 +143,7 @@ function Treemap(props) {
   var mouseOver = function mouseOver(d) {
     setSelectedNode(d);
     setTooltipX(d.x1 + 20);
-    setTooltipY(d.y0 + 50);
+    setTooltipY(d.y0 + 100);
   };
 
   var mouseOut = function mouseOut() {
@@ -63788,7 +63788,7 @@ function CovidShanghai() {
       firstAttr = _React$useState4[0],
       setFirstAttr = _React$useState4[1];
 
-  var _React$useState5 = react__WEBPACK_IMPORTED_MODULE_0__.useState("zone"),
+  var _React$useState5 = react__WEBPACK_IMPORTED_MODULE_0__.useState("null"),
       _React$useState6 = _slicedToArray(_React$useState5, 2),
       secondAttr = _React$useState6[0],
       setSecondAttr = _React$useState6[1];
@@ -63816,10 +63816,10 @@ function CovidShanghai() {
   var rawData = useData(csvUrl);
 
   if (!rawData) {
-    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "\"loading...\"");
-  }
+    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", null, "\"Loading...\"");
+  } // console.log(rawData);
 
-  console.log(rawData);
+
   var attributes = [firstAttr, secondAttr, thirdAttr].filter(function (d) {
     return d !== "null";
   });
@@ -63836,7 +63836,11 @@ function CovidShanghai() {
     value: "date",
     label: "Date"
   }];
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_dropdown__WEBPACK_IMPORTED_MODULE_3__.Dropdown, {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", {
+    style: {
+      fontFamily: "verdana"
+    }
+  }, "Shanghai Covid 19 Dataset: 5th - 9th, April"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_dropdown__WEBPACK_IMPORTED_MODULE_3__.Dropdown, {
     options: options,
     id: "selector1",
     selectedValue: firstAttr,

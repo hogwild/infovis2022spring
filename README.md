@@ -1,6 +1,6 @@
 # InfoVis Spring 2022 Final Project Demo
 ## Grading Rules
-There are 30 points for 7 evaluation questions. Each may have the following grading choices:
+There are 30 points for 7 evaluation questions. Click the **Grade the work** to give your review comments. The following shows the choices and its corresponding points:
 - Good/Perfect - full points
 - Satisfying - 2/3 of the points (if applicable)
 - Medium - 1/2 of the points (if applicable)

@@ -68,8 +68,8 @@
 - Authors: Almadi Shiryayev, Neil Chonoolal
 - [Grade the work](){:target="_blank"}
 
-## [Team 18: The World's Population Change](){:target="_blank"} 
-- Authors: Almadi Shiryayev, Neil Chonoolal
+## [Team 18: US Presidential Election Returns 2000-2020](){:target="_blank"} 
+- Authors: Boyan Xu
 - [Grade the work](){:target="_blank"}
 
 

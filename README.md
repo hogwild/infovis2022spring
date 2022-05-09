@@ -1,4 +1,11 @@
 # InfoVis Spring 2022 Final Project Demo
+## Grading Rules
+There are 30 points for 7 evaluation questions. Each may have the following grading choices:
+- Good/Perfect - full points
+- Satisfying - 2/3 of the points (if applicable)
+- Medium - 1/2 of the points (if applicable)
+- Acceptable - 1/3 of the points (if applicable)
+- No good - no points
 
 ## [Team 1: Olympic Medals](./team1/index.html){:target="_blank"} 
 - Authors: Haoxuan Sun, Anran Wang, Calvin Shi

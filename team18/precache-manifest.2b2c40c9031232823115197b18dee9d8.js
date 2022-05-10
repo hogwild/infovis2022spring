@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d368d7ddd46e0088ad337c6ea058f2f3",
+    "revision": "c107d50081747d53e8e4286175ef2b68",
     "url": "/infovis2022spring/team18/index.html"
   },
   {
-    "revision": "6641baaaa289f6d7b8d3",
+    "revision": "798cdae90a74c89469d0",
     "url": "/infovis2022spring/team18/static/css/main.dacb0614.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infovis2022spring/team18/static/js/2.b8c80520.chunk.js"
   },
   {
-    "revision": "6641baaaa289f6d7b8d3",
-    "url": "/infovis2022spring/team18/static/js/main.252fc8a3.chunk.js"
+    "revision": "798cdae90a74c89469d0",
+    "url": "/infovis2022spring/team18/static/js/main.db8e7a0c.chunk.js"
   },
   {
     "revision": "28daf0fbda47c6b4a915",

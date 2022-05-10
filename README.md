@@ -1,4 +1,7 @@
 # InfoVis Spring 2022 Final Project Gallery
+## About the 5 minutes demo
+The demo is to show others how to use your visualization. You may simply open your webpage and tell people what functions it has, e.g., how to high light an object, and what information a chart view shows. Usually, you don't need to prepare slides for it.
+
 ## Grading Rules
 There are 30 points for 7 evaluation questions. Click the **Review the work** to give your review comments. The following shows the comments and their corresponding points:
 - Good/Perfect - full points

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd0cd09f00fe42bb2d6fa53f25afccc7",
+    "revision": "13dc06e541a25dbf091305f255043b62",
     "url": "/infovis2022spring/index.html"
   },
   {
-    "revision": "798cdae90a74c89469d0",
+    "revision": "6641baaaa289f6d7b8d3",
     "url": "/infovis2022spring/static/css/main.dacb0614.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infovis2022spring/static/js/2.b8c80520.chunk.js"
   },
   {
-    "revision": "798cdae90a74c89469d0",
-    "url": "/infovis2022spring/static/js/main.db8e7a0c.chunk.js"
+    "revision": "6641baaaa289f6d7b8d3",
+    "url": "/infovis2022spring/static/js/main.252fc8a3.chunk.js"
   },
   {
     "revision": "9a362e5a1c4f081f097a",

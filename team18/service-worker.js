@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/infovis2022spring/precache-manifest.26e93285acfbc1732708507506ab63b5.js"
+  "/infovis2022spring/precache-manifest.a48e933a1fd5648135e877aee595ad9b.js"
 );
 
 self.addEventListener('message', (event) => {

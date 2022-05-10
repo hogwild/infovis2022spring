@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dacb0614.chunk.css",
-    "main.js": "/static/js/main.7bca84e7.chunk.js",
-    "main.js.map": "/static/js/main.7bca84e7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b8c80520.chunk.js": "/static/js/2.b8c80520.chunk.js",
-    "static/js/2.b8c80520.chunk.js.map": "/static/js/2.b8c80520.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f6ed8f53a166262cbdb000f483fc1e98.js": "/precache-manifest.f6ed8f53a166262cbdb000f483fc1e98.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dacb0614.chunk.css.map": "/static/css/main.dacb0614.chunk.css.map"
+    "main.css": "/infovis2022spring/static/css/main.dacb0614.chunk.css",
+    "main.js": "/infovis2022spring/static/js/main.db8e7a0c.chunk.js",
+    "main.js.map": "/infovis2022spring/static/js/main.db8e7a0c.chunk.js.map",
+    "runtime~main.js": "/infovis2022spring/static/js/runtime~main.947d37f3.js",
+    "runtime~main.js.map": "/infovis2022spring/static/js/runtime~main.947d37f3.js.map",
+    "static/js/2.b8c80520.chunk.js": "/infovis2022spring/static/js/2.b8c80520.chunk.js",
+    "static/js/2.b8c80520.chunk.js.map": "/infovis2022spring/static/js/2.b8c80520.chunk.js.map",
+    "index.html": "/infovis2022spring/index.html",
+    "precache-manifest.26e93285acfbc1732708507506ab63b5.js": "/infovis2022spring/precache-manifest.26e93285acfbc1732708507506ab63b5.js",
+    "service-worker.js": "/infovis2022spring/service-worker.js",
+    "static/css/main.dacb0614.chunk.css.map": "/infovis2022spring/static/css/main.dacb0614.chunk.css.map"
   }
 }

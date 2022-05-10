@@ -13,7 +13,7 @@ Also, you may [click here](https://docs.google.com/spreadsheets/d/1PpQt_VVVTGZRG
 - Authors: Haoxuan Sun, Anran Wang, Calvin Shi
 - [Review the work](https://forms.gle/SJDo3nQosfzshoFs7){:target="_blank"} 
 
-## [Team 2: US Gun Violence Between 2013-2018](./team2/index.html){:target="_blank"} 
+## [Team 2: US Gun Violence Between 2013-2018](https://zoexiao0516.github.io/InfoViz/Project/dist/index.html){:target="_blank"} 
 - Authors: Xinyao Han, Zoe Xiao 
 - [Review the work](https://forms.gle/aN5Kh6zRY2ixsBqy9){:target="_blank"}
 

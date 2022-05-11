@@ -77,7 +77,7 @@ Also, you may [click here](https://docs.google.com/spreadsheets/d/1PpQt_VVVTGZRG
 - Authors: Sophia Li, James Wu
 - [Review the work](https://forms.gle/FZvwDswFceAWpVyTA){:target="_blank"}
 
-## [Team 17: The World's Population Change](./team17/index.html){:target="_blank"} 
+## [Team 17: The World's Pollution Change](./team17/index.html){:target="_blank"} 
 - Authors: Almadi Shiryayev, Neil Chonoolal
 - [Review the work](https://forms.gle/S6f4udEzXZFLQt8Q8){:target="_blank"}
 

@@ -10,6 +10,8 @@ There are 30 points for 7 evaluation questions. Click the **Review the work** to
 - Acceptable - 1/3 of the points (if applicable)
 - No good - no points
 
+Please complete the review by this Friday (May 12), Shanghai time. Thank you.
+
 Also, you may [click here](https://docs.google.com/spreadsheets/d/1PpQt_VVVTGZRGgv25c7PaYZlqVJn-_kqFKJEtdrNzz8/edit?usp=sharing){:target="_blank"} to get the whole list of projects. 
 
 ## [Team 1: Olympic Medals](./team1/index.html){:target="_blank"} 

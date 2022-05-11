@@ -34,7 +34,7 @@ Also, you may [click here](https://docs.google.com/spreadsheets/d/1PpQt_VVVTGZRG
 
 ## [Team 6: Finding Your Electric Vehicle](./team6/index.html){:target="_blank"} 
 - Authors: Quinn He, Yanwen Chen
-- Please note: This project uses a parallel coordinates layout whose complexity is equivalent to the must-have layouts mentioned in the guideline.   
+- **Please note**: It uses the parallel coordinates whose complexity is equivalent to the must-have layouts.
 - [Review the work](https://forms.gle/1VTKzmm8QHTu5UeG6){:target="_blank"}
 
 ## [Team 7: Visualizing the World Happiness Report 2015-2022](./team7/index.html){:target="_blank"} 
